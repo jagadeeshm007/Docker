@@ -111,4 +111,4 @@ Alternatively, you can run the script by overriding the default command:
 docker run -p 3000:3000 my-node-app sh start.sh
 ```
 
-These steps and commands should help you get started with writing a Dockerfile and executing related commands. If you have a specific use case or need further assistance, feel free to ask!
+These steps and commands should help you get started with writing a Dockerfile and executing related commands.
